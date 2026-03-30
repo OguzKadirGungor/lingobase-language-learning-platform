@@ -35,7 +35,6 @@ Lingobase is a full-stack web-based English language learning and practice platf
 ### Tools
 - Git & GitHub  
 - Postman  
-- Trello  
 
 ---
 
