@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lingobase: Web Tabanlı İngilizce Öğrenme Platformu
 
 Lingobase, yapay zekâ destekli chatbot ve oyunlaştırma unsurlarıyla kullanıcıların İngilizce öğrenme sürecini kolaylaştırmayı ve daha motive edici hâle getirmeyi amaçlayan web tabanlı bir dil eğitim platformudur.
@@ -52,3 +53,7 @@ npm start
 cd frontend
 npm install
 npm run dev
+=======
+# lingobase-language-learning-platform
+AI-powered English language learning and practice platform built as a graduation project.
+>>>>>>> 8abe818bbf5898c1aa7764cc87e4403dc15fd923
